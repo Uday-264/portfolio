@@ -21,7 +21,7 @@ export const Loader = () => {
           },
         }}
       >
-        <Image src={"/assets/loading.svg"} w={"64px"} h={"64px"} />
+        <Image src={"assets/loading.svg"} w={"64px"} h={"64px"} />
       </motion.div>
     </Flex>
   );

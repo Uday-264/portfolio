@@ -67,7 +67,7 @@ export const me = {
   about:
    "I’m a passionate web developer focused on creating user-friendly, responsive websites. I love solving problems and exploring new technologies, always seeking to make a positive impact through innovative solutions and collaboration.",
   location: "Amherst, MA",
-  image: "/assets/uday.png",
+  image: "assets/uday.png",
   education: [
     {
       degree: "Bachelor of Technology",
@@ -97,7 +97,7 @@ export const me = {
         },
         
       ],
-      image: "/assets/logo.png",
+      image: "assets/logo.png",
     },
   
     {
@@ -112,13 +112,13 @@ export const me = {
         },
         
       ],
-      image: "/assets/discord.png",
+      image: "assets/discord.png",
     },
     {
       name: "SwiftVid",
       description:
         "Created a landing page that showcases key features, pricing, customer reviews, and FAQs. The design is straightforward and user-friendly, making it easy for visitors to understand the value of the service.",
-      image: "/assets/favicon.ico",
+      image: "assets/favicon.ico",
       technologies: ["Nextjs", "TypeScript", "TailwindCSS"],
       links: [
        
